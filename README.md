@@ -51,7 +51,11 @@ Los resultados del análisis se resumen en un Dashboard interactivo creado en Ta
 Las contribuciones son bienvenidas. Si tienes alguna sugerencia, abre un **issue** o envía un **pull request**.
 
 ## Licencia
-Este proyecto se encuentra bajo la licencia MIT.
+El código y el análisis presentados en este proyecto están disponibles bajo una licencia de uso limitado. Se permite el uso con fines educativos y de investigación. Sin embargo, los datos originales no están incluidos en el repositorio y no pueden ser redistribuidos o utilizados para otros fines sin el permiso explícito del propietario de los datos.
+
+Para más información sobre los términos de la licencia o para solicitar permisos adicionales, contacta a [Jesus Alejandro De los Santos Mendoza ](mailto:biomealejandro@gmail.com).
 
 ## Contacto
-Para más información, contacta a [Nombre del Responsable](mailto:correo@ejemplo.com).
+Para más información, contacta a [Jesus Alejandro De los Santos Mendoza ](mailto:biomealejandro@gmail.com).
+
+
